@@ -7,6 +7,6 @@ This is <sub> subscript</sub> text\
 git status
 git add
 git commit
+user_name =
+paswword =
 ~~~
-user_name = Enter your Name
-paswword = Enter Password
