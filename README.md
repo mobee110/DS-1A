@@ -8,3 +8,5 @@ git status
 git add
 git commit
 ~~~
+user_name = Enter your Name
+paswword = Enter Password
